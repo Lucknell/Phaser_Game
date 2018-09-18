@@ -1,6 +1,9 @@
 # Phaser_Game
 A JavaScript game that uses the Phaser framework to render the sprites and works with the collison detection. This project was made for ShellHacks 2018.
 
+[Play the lastest version](index.html)
+[Play the stable version](https://lucknell.github.io/Phaser_Game/)
+
 ## Controls
 
 To control player 1 you can use the arrow keys.
@@ -16,7 +19,7 @@ W is jump and A and D to move left and right.
 - [ ] Optimize the current build.
 - [ ] Finalize a name.
 - [ ] Create more unique assets.
-- [X] Have the game Running.
+- [X] Have the game running.
 - [ ] Create a more interactive webpage. 
 - [ ] Allow users to enter names for the characters.
-- [ ] Randomize the Questions.
+- [ ] Randomize the questions.
