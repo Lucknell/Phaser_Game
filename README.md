@@ -13,10 +13,10 @@ W is jump and A and D to move left and right.
 
 ## TODO LIST
 
--[ ] Optimize the current build.
--[ ] Finalize a name.
--[ ] Create more unique assets.
--[X] Have the game Running. 
--[ ] Create a more interactive webpage. 
--[ ] Allow users to enter names for the characters.
--[ ] Randomize the Questions.
+- [ ] Optimize the current build.
+- [ ] Finalize a name.
+- [ ] Create more unique assets.
+- [X] Have the game Running.
+- [ ] Create a more interactive webpage. 
+- [ ] Allow users to enter names for the characters.
+- [ ] Randomize the Questions.
