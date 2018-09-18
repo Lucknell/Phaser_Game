@@ -1,7 +1,8 @@
 # Phaser_Game
 A JavaScript game that uses the Phaser framework to render the sprites and works with the collison detection. This project was made for ShellHacks 2018.
 
-[Play the lastest version](https://lucknell.github.io/Phaser_Game/lastest.html)
+[Play the latest version](https://lucknell.github.io/Phaser_Game/lastest.html)
+
 [Play the stable version](https://lucknell.github.io/Phaser_Game/)
 
 ## Controls
