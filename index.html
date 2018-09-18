@@ -128,19 +128,19 @@
 	this.physics.add.collider(player2, platforms);
 	
 	this.anims.create({
-		key:'left',
+		key:'left1',
 		frames: this.anims.generateFrameNumbers('dude1', {start:0, end:3}),
 		frameRate: 10,
 		repeat: -1
 });
 
 	this.anims.create({
-		key: 'turn',
+		key: 'turn1',
 		frames: [{key: 'dude1', frame: 4}],
 		frameRate:20
 });
 			this.anims.create({
-		key:'right',
+		key:'right1',
 		frames: this.anims.generateFrameNumbers('dude1', {start:5, end:8}),
 		frameRate: 10,
 		repeat: -1
@@ -355,17 +355,17 @@ stack = this.physics.add.group({
 	if (this.key2.isDown)
 	{
 		player2.setVelocityX(-160);
-		player2.anims.play('left', true);
+		player2.anims.play('left1', true);
 	}
 	else if (this.key4.isDown)
 	{
 		player2.setVelocityX(160);
-		player2.anims.play('right', true);
+		player2.anims.play('right1', true);
 	}
 	else 
 	{
 		player2.setVelocityX(0);
-		player2.anims.play('turn');
+		player2.anims.play('turn1');
 	}
 	if(this.key1.isDown && player2.body.touching.down)
 	{
